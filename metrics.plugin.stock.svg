@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="302" class="">
+    <defs>
+        <style/>
+    </defs>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}</style>
+    <style/>
+    <foreignObject x="0" y="0" width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
+            <section>
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path d="M10.75 9a.75.75 0 000 1.5h1.5a.75.75 0 000-1.5h-1.5z"/>
+                        <path fill-rule="evenodd" d="M0 3.75C0 2.784.784 2 1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0114.25 14H1.75A1.75 1.75 0 010 12.25v-8.5zm14.5 0V5h-13V3.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25zm0 2.75h-13v5.75c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V6.5z"/>
+                    </svg>
+                    Stock prices for TSLA
+                </h2>
+                <div class="row">
+                    <section>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M1.5 14.25c0 .138.112.25.25.25H4v-1.25a.75.75 0 01.75-.75h2.5a.75.75 0 01.75.75v1.25h2.25a.25.25 0 00.25-.25V1.75a.25.25 0 00-.25-.25h-8.5a.25.25 0 00-.25.25v12.5zM1.75 16A1.75 1.75 0 010 14.25V1.75C0 .784.784 0 1.75 0h8.5C11.216 0 12 .784 12 1.75v12.5c0 .085-.006.168-.018.25h2.268a.25.25 0 00.25-.25V8.285a.25.25 0 00-.111-.208l-1.055-.703a.75.75 0 11.832-1.248l1.055.703c.487.325.779.871.779 1.456v5.965A1.75 1.75 0 0114.25 16h-3.5a.75.75 0 01-.197-.026c-.099.017-.2.026-.303.026h-3a.75.75 0 01-.75-.75V14h-1v1.25a.75.75 0 01-.75.75h-3zM3 3.75A.75.75 0 013.75 3h.5a.75.75 0 010 1.5h-.5A.75.75 0 013 3.75zM3.75 6a.75.75 0 000 1.5h.5a.75.75 0 000-1.5h-.5zM3 9.75A.75.75 0 013.75 9h.5a.75.75 0 010 1.5h-.5A.75.75 0 013 9.75zM7.75 9a.75.75 0 000 1.5h.5a.75.75 0 000-1.5h-.5zM7 6.75A.75.75 0 017.75 6h.5a.75.75 0 010 1.5h-.5A.75.75 0 017 6.75zM7.75 3a.75.75 0 000 1.5h.5a.75.75 0 000-1.5h-.5z"/>
+                            </svg>
+                            Tesla, Inc.
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
+                            </svg>
+                            Valued at 191.97 USD
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5a.25.25 0 01.25.25V6h-11V3.75a.25.25 0 01.25-.25h2zm-2.25 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V7.5h-11z"/>
+                            </svg>
+                            Today
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M13.03 8.22a.75.75 0 010 1.06l-4.25 4.25a.75.75 0 01-1.06 0L3.47 9.28a.75.75 0 011.06-1.06l2.97 2.97V3.75a.75.75 0 011.5 0v7.44l2.97-2.97a.75.75 0 011.06 0z"/>
+                            </svg>
+                            -5.44 USD (-2.83%)
+                        </div>
+                    </section>
+                </div>
+                <div class="stock-chart">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="480" height="200">
+                        <g transform="translate(10,155)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
+                            <path class="domain" stroke="rgba(127, 127, 127, .8)" d="M10.5,0.5H460.5"/>
+                            <g class="tick" opacity="1" transform="translate(10.5,0)">
+                                <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">09 AM</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(38.625,0)">
+                                <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">10 AM</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(66.75,0)">
+                                <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">11 AM</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(94.875,0)">
+                                <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">12 PM</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(123,0)">
+                                <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">01 PM</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(151.125,0)">
+                                <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">02 PM</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(179.25,0)">
+                                <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">03 PM</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(207.375,0)">
+                                <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">04 PM</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(235.5,0)">
+                                <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">05 PM</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(263.625,0)">
+                                <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">06 PM</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(291.75,0)">
+                                <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">07 PM</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(319.875,0)">
+                                <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">08 PM</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(348,0)">
+                                <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">09 PM</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(376.125,0)">
+                                <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">10 PM</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(404.25,0)">
+                                <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">11 PM</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(432.375,0)">
+                                <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sat 24</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(460.5,0)">
+                                <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
+                                <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">01 AM</text>
+                            </g>
+                        </g>
+                        <g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
+                            <g class="tick" opacity="1" transform="translate(0,29.104743732846707)">
+                                <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
+                                <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">196</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,75.0200322011518)">
+                                <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
+                                <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">194</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,120.93532066945693)">
+                                <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
+                                <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">192</text>
+                            </g>
+                        </g>
+                        <path transform="translate(10,10)" d="M10,47.889L12.344,42.379L14.688,42.15L17.031,47.43L19.375,50.644L21.719,55.006L24.063,61.205L26.406,58.679L28.75,48.119L31.094,47.66L33.438,43.527L35.781,47.889L38.125,50.874L40.469,52.022L42.813,47.2L45.156,46.971L47.5,43.986L49.844,43.757L52.188,41.231L54.531,41.231L56.875,42.379L59.219,44.675L61.562,44.675L63.906,48.119L66.25,44.905L68.594,45.593L70.938,45.823L73.281,44.675L75.625,44.905L77.969,44.675L80.313,44.216L82.656,42.609L85,35.033L87.344,35.722L89.688,34.803L92.031,33.655L94.375,41.231L96.719,41.92L99.062,33.426L101.406,37.329L103.75,35.951L106.094,30.671L108.438,22.636L110.781,26.539L113.125,31.36L115.469,28.146L117.813,25.62L120.156,26.079L122.5,24.932L124.844,25.161L127.188,25.046L129.531,26.539L131.875,23.095L134.219,21.029L136.563,20.11L138.906,18.044L141.25,23.324L143.594,26.539L145.937,30.441L148.281,34.574L150.625,24.013L152.969,25.85L155.313,32.048L164.688,10L167.031,26.536L169.375,12.973L171.719,30.671L174.062,34.344L176.406,53.461L178.75,66.255L181.094,68.207L183.438,72.683L185.781,59.368L188.125,76.242L190.469,84.273L192.813,64.182L195.156,63.73L197.5,64.419L199.844,58.22L202.187,44.675L204.531,51.218L206.875,67.633L209.219,77.275L211.563,82.555L213.906,76.816L216.25,72.959L218.594,62.582L220.938,64.993L223.281,68.108L225.625,70.847L227.969,70.847L230.312,53.323L232.656,52.022L235,53.344L237.344,50.644L239.688,54.317L242.031,50.3L244.375,67.862L246.719,76.357L249.063,79.341L251.406,77.964L253.75,84.162L256.094,77.502L258.438,83.053L260.781,81.292L263.125,94.379L265.469,101.38L267.812,94.723L270.156,85.31L272.5,82.326L274.844,75.209L277.188,75.207L279.531,83.698L281.875,81.867L284.219,75.668L286.563,91.277L288.906,89.442L291.25,108.959L293.594,107.12L295.937,105.742L298.281,105.628L300.625,115.385L302.969,106.431L305.313,103.676L307.656,100.921L310,102.069L312.344,104.822L314.688,101.459L317.031,94.261L319.375,95.87L321.719,104.565L324.062,107.809L326.406,110.793L328.75,111.711L331.094,121.124L333.438,119.411L335.781,111.482L338.125,120.665L340.469,120.435L342.813,117.451L345.156,122.272L347.5,124.797L349.844,127.552L352.187,127.782L354.531,127.552L356.875,125.027L359.219,123.994L361.563,125.142L363.906,127.552L366.25,130.766L368.594,131.685L370.938,133.751L373.281,134.669L375.625,135.587L377.969,134.669L380.312,132.832L382.656,133.292L385,132.832L387.344,135.59L389.688,136.735L392.031,138.801L394.375,139.949L396.719,141.097L399.063,145L401.406,142.016L403.75,139.72L406.094,135.358L408.437,138.955L410.781,137.654L413.125,140.179L415.469,137.998L417.813,138.113L420.156,136.506L422.5,136.506L424.844,135.358L427.188,134.21L429.531,136.506L431.875,138.113L434.219,139.375L436.562,140.638L438.906,140.179L441.25,141.442L443.594,141.786L445.938,139.949L448.281,139.605L450.625,140.294L452.969,141.556L455.313,141.556L457.656,140.408L460,140.408" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                        <path transform="translate(10,10)" d="M10,145L12.344,145L14.688,145L17.031,145L19.375,145L21.719,145L24.063,145L26.406,145L28.75,145L31.094,145L33.438,145L35.781,145L38.125,145L40.469,145L42.813,145L45.156,145L47.5,145L49.844,145L52.188,145L54.531,145L56.875,145L59.219,145L61.562,145L63.906,145L66.25,145L68.594,145L70.938,145L73.281,145L75.625,145L77.969,145L80.313,145L82.656,145L85,145L87.344,145L89.688,145L92.031,145L94.375,145L96.719,145L99.062,145L101.406,145L103.75,145L106.094,145L108.438,145L110.781,145L113.125,145L115.469,145L117.813,145L120.156,145L122.5,145L124.844,145L127.188,145L129.531,145L131.875,145L134.219,145L136.563,145L138.906,145L141.25,145L143.594,145L145.937,145L148.281,145L150.625,145L152.969,145L155.313,145L164.688,145L167.031,145L169.375,145L171.719,145L174.062,145L176.406,145L178.75,145L181.094,145L183.438,145L185.781,145L188.125,145L190.469,145L192.813,145L195.156,145L197.5,145L199.844,145L202.187,145L204.531,145L206.875,145L209.219,145L211.563,145L213.906,145L216.25,145L218.594,145L220.938,145L223.281,145L225.625,145L227.969,145L230.312,145L232.656,145L235,145L237.344,145L239.688,145L242.031,145L244.375,145L246.719,145L249.063,145L251.406,145L253.75,145L256.094,145L258.438,145L260.781,145L263.125,145L265.469,145L267.812,145L270.156,145L272.5,145L274.844,145L277.188,145L279.531,145L281.875,145L284.219,145L286.563,145L288.906,145L291.25,145L293.594,145L295.937,145L298.281,145L300.625,145L302.969,145L305.313,145L307.656,145L310,145L312.344,145L314.688,145L317.031,145L319.375,145L321.719,145L324.062,145L326.406,145L328.75,145L331.094,145L333.438,145L335.781,145L338.125,145L340.469,145L342.813,145L345.156,145L347.5,145L349.844,145L352.187,145L354.531,145L356.875,145L359.219,145L361.563,145L363.906,145L366.25,145L368.594,145L370.938,145L373.281,145L375.625,145L377.969,145L380.312,145L382.656,145L385,145L387.344,145L389.688,145L392.031,145L394.375,145L396.719,145L399.063,145L401.406,145L403.75,145L406.094,145L408.437,145L410.781,145L413.125,145L415.469,145L417.813,145L420.156,145L422.5,145L424.844,145L427.188,145L429.531,145L431.875,145L434.219,145L436.562,145L438.906,145L441.25,145L443.594,145L445.938,145L448.281,145L450.625,145L452.969,145L455.313,145L457.656,145L460,145L460,140.408L457.656,140.408L455.313,141.556L452.969,141.556L450.625,140.294L448.281,139.605L445.938,139.949L443.594,141.786L441.25,141.442L438.906,140.179L436.562,140.638L434.219,139.375L431.875,138.113L429.531,136.506L427.188,134.21L424.844,135.358L422.5,136.506L420.156,136.506L417.813,138.113L415.469,137.998L413.125,140.179L410.781,137.654L408.437,138.955L406.094,135.358L403.75,139.72L401.406,142.016L399.063,145L396.719,141.097L394.375,139.949L392.031,138.801L389.688,136.735L387.344,135.59L385,132.832L382.656,133.292L380.312,132.832L377.969,134.669L375.625,135.587L373.281,134.669L370.938,133.751L368.594,131.685L366.25,130.766L363.906,127.552L361.563,125.142L359.219,123.994L356.875,125.027L354.531,127.552L352.187,127.782L349.844,127.552L347.5,124.797L345.156,122.272L342.813,117.451L340.469,120.435L338.125,120.665L335.781,111.482L333.438,119.411L331.094,121.124L328.75,111.711L326.406,110.793L324.062,107.809L321.719,104.565L319.375,95.87L317.031,94.261L314.688,101.459L312.344,104.822L310,102.069L307.656,100.921L305.313,103.676L302.969,106.431L300.625,115.385L298.281,105.628L295.937,105.742L293.594,107.12L291.25,108.959L288.906,89.442L286.563,91.277L284.219,75.668L281.875,81.867L279.531,83.698L277.188,75.207L274.844,75.209L272.5,82.326L270.156,85.31L267.812,94.723L265.469,101.38L263.125,94.379L260.781,81.292L258.438,83.053L256.094,77.502L253.75,84.162L251.406,77.964L249.063,79.341L246.719,76.357L244.375,67.862L242.031,50.3L239.688,54.317L237.344,50.644L235,53.344L232.656,52.022L230.312,53.323L227.969,70.847L225.625,70.847L223.281,68.108L220.938,64.993L218.594,62.582L216.25,72.959L213.906,76.816L211.563,82.555L209.219,77.275L206.875,67.633L204.531,51.218L202.187,44.675L199.844,58.22L197.5,64.419L195.156,63.73L192.813,64.182L190.469,84.273L188.125,76.242L185.781,59.368L183.438,72.683L181.094,68.207L178.75,66.255L176.406,53.461L174.062,34.344L171.719,30.671L169.375,12.973L167.031,26.536L164.688,10L155.313,32.048L152.969,25.85L150.625,24.013L148.281,34.574L145.937,30.441L143.594,26.539L141.25,23.324L138.906,18.044L136.563,20.11L134.219,21.029L131.875,23.095L129.531,26.539L127.188,25.046L124.844,25.161L122.5,24.932L120.156,26.079L117.813,25.62L115.469,28.146L113.125,31.36L110.781,26.539L108.438,22.636L106.094,30.671L103.75,35.951L101.406,37.329L99.062,33.426L96.719,41.92L94.375,41.231L92.031,33.655L89.688,34.803L87.344,35.722L85,35.033L82.656,42.609L80.313,44.216L77.969,44.675L75.625,44.905L73.281,44.675L70.938,45.823L68.594,45.593L66.25,44.905L63.906,48.119L61.562,44.675L59.219,44.675L56.875,42.379L54.531,41.231L52.188,41.231L49.844,43.757L47.5,43.986L45.156,46.971L42.813,47.2L40.469,52.022L38.125,50.874L35.781,47.889L33.438,43.527L31.094,47.66L28.75,48.119L26.406,58.679L24.063,61.205L21.719,55.006L19.375,50.644L17.031,47.43L14.688,42.15L12.344,42.379L10,47.889Z" fill="rgba(88, 166, 255, .1)"/>
+                    </svg>
+                </div>
+            </section>
+        </div>
+        <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
+    </foreignObject>
+</svg>
